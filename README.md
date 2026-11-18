@@ -182,8 +182,9 @@ sns.heatmap(df.corr(numeric_only=True),annot=True)
 <img width="517" height="412" alt="image" src="https://github.com/user-attachments/assets/0b95f951-4f67-468c-a172-09720ce1afa5" />
 
 
+### SUMMARY:
 
-
+[Titanic_EDA_Summary.docx](https://github.com/user-attachments/files/35019789/Titanic_EDA_Summary.docx)
 
 
 
